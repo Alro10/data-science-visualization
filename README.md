@@ -10,10 +10,14 @@ Famous and well-known python package, for beginners is very common use it.
 
 ```python
 pip install matplotlib
-pip3 install matplotlib 
-
+pip3 install matplotlib
 ```
-
+pip install seaborn
 ## Seaborn
+
+```python
+pip install seaborn
+pip3 install seaborn
+```
 
 ## Ploty
