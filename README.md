@@ -15,7 +15,7 @@ pip3 install matplotlib
 pip install seaborn
 ## Seaborn
 
-(Seaborn)[https://seaborn.pydata.org/] is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+!(Seaborn)[https://seaborn.pydata.org/] is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
 ```python
 pip install seaborn
