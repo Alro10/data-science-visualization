@@ -9,8 +9,8 @@ under developing!
 Famous and well-known python package, for beginners is very common use it.
 
 ```python
-pip install matplotlib
-pip3 install matplotlib
+pip install matplotlib # python 2.7
+pip3 install matplotlib # python 3.5
 ```
 pip install seaborn
 ## Seaborn
@@ -18,8 +18,8 @@ pip install seaborn
 [Seaborn](https://seaborn.pydata.org/) is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
 ```python
-pip install seaborn
-pip3 install seaborn
+pip install seaborn # python 2.7
+pip3 install seaborn  # python 3.5
 ```
 
-## Ploty
+## Plotly
