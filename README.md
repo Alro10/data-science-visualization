@@ -6,6 +6,14 @@ under developing!
 
 ## Matplotlib
 
+Famous and well-known python package, for beginners is very common use it.
+
+```python
+pip install matplotlib
+pip3 install matplotlib 
+
+```
+
 ## Seaborn
 
 ## Ploty
