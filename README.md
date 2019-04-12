@@ -12,7 +12,7 @@ Famous and well-known python package, for beginners is very common use it.
 pip install matplotlib # python 2.7
 pip3 install matplotlib # python 3.5
 ```
-pip install seaborn
+
 ## Seaborn
 
 [Seaborn](https://seaborn.pydata.org/) is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
@@ -27,5 +27,9 @@ pip3 install seaborn  # python 3.5
 An open-source, interactive graphing library for Python, [Plotly](https://plot.ly/python/)
 
 
+```python
+pip install plotly  # python 2.7
+pip3 install plotly   # python 3.5
+```
 
 *Collaborations and contributions are very welcome!* :+1:
