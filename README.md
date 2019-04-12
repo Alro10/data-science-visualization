@@ -23,3 +23,5 @@ pip3 install seaborn  # python 3.5
 ```
 
 ## Plotly
+
+An open-source, interactive graphing library for Python, [Plotly](https://plot.ly/python/)
