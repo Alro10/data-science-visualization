@@ -1,5 +1,5 @@
 # data-science-visualization
-In order to become a Data Scientist, plot and visualize data from files such as csv, txt, etc, turn important and also really cool. How do you infer about some data? If you do not see on XYZ, using awesome packages.
+In order to become a Data Scientist, plot and visualize data from files such as csv, txt, etc, turn important and also really cool. How do you infer about some data? If you do not see on ```XYZ```, using awesome packages running on G colab, jupyter notebook or script form.
 
 under developing!
 
