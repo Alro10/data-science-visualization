@@ -41,7 +41,7 @@ An open-source, interactive graphing library for Python, [Plotly](https://plot.l
 pip install plotly  # python 2.7
 pip3 install plotly   # python 3.5
 ```
-
+*Function for using plotly on G colab*
 ```
 import plotly.plotly as py
 ```
