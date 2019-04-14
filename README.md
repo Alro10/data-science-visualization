@@ -1,5 +1,5 @@
 # data-science-visualization
-In order to become a Data Scientist, plot and visualize data from files such as csv, txt, etc, turn important and also really cool. How do you infer about some data? If you do not see on ```XYZ```, using awesome packages running on G colab, jupyter notebook or script form.
+In order to become a Data Scientist, plot and visualize data from files such as csv, txt, etc, turn important and also really cool. How do you infer about some data? If you do not see on ```XYZ```, using awesome packages running on G colab, jupyter or script form.
 
 under developing!
 
@@ -7,6 +7,10 @@ under developing!
 ## Matplotlib
 
 Famous and well-known python package, for beginners is very common use it.
+
+```
+import matplotlib.pyplot as plt
+```
 
 ```python
 pip install matplotlib # python 2.7
