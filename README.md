@@ -45,5 +45,21 @@ pip3 install plotly   # python 3.5
 ```
 import plotly.plotly as py
 ```
+```python
+def configure_plotly_browser_state():
+  import IPython
+  display(IPython.core.display.HTML('''
+        <script src="/static/components/requirejs/require.js"></script>
+        <script>
+          requirejs.config({
+            paths: {
+              base: '/static/base',
+              plotly: 'https://cdn.plot.ly/plotly-1.5.1.min.js?noext',
+            },
+          });
+        </script>
+        ''')) # python 3.5
+```
+
 
 *Collaborations and contributions are very welcome!* :+1:
