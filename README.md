@@ -29,7 +29,7 @@ pip3 install seaborn  # python 3.5
 ```
 import seaborn as sns
 ```
-```
+
 
 
 ## Plotly
@@ -40,6 +40,10 @@ An open-source, interactive graphing library for Python, [Plotly](https://plot.l
 ```python
 pip install plotly  # python 2.7
 pip3 install plotly   # python 3.5
+```
+
+```
+import plotly.plotly as py
 ```
 
 *Collaborations and contributions are very welcome!* :+1:
