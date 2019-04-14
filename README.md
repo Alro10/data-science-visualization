@@ -26,6 +26,12 @@ pip install seaborn # python 2.7
 pip3 install seaborn  # python 3.5
 ```
 
+```
+import seaborn as sns
+```
+```
+
+
 ## Plotly
 
 An open-source, interactive graphing library for Python, [Plotly](https://plot.ly/python/)
