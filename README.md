@@ -8,13 +8,15 @@ under developing!
 
 Famous and well-known python package, for beginners is very common use it.
 
-```
-import matplotlib.pyplot as plt
-```
+
 
 ```python
 pip install matplotlib # python 2.7
 pip3 install matplotlib # python 3.5
+```
+
+```
+import matplotlib.pyplot as plt
 ```
 
 ## Seaborn
